@@ -1,0 +1,10 @@
+api-version: 1.18
+description: FFA by nerotvlive
+version: '${project.version}'
+website: https://nerotv.live/ffa
+author: nerotvlive
+main: live.nerotv.ffa.Main
+name: FFA
+
+commands:
+  build:
